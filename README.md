@@ -9,8 +9,8 @@
 - 🌱 I’m currently pursuing my masters in Data Analytics in San Jose State University 
 - 💞️ I get excited about opportunities where I'm able to work with highly creative people to develop innovative solutions in the data industry.
 - 📫 How to reach me:
-  LinkedIn : Aradhya Alva R
-  Email : @aradhyaalva881@gmail.com
+  LinkedIn : Aradhya Alva R /
+  Email : @aradhyaalva881@gmail.com /
   GitHub : AradhyaAlva
 
 <!---

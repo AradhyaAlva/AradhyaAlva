@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @AradhyaAlva
 - Specialties include:
-1. Clear Communication
-2. SQL Querying
-3. Python
-4. Dashboards
-5. Data Analysis
-6.Business Analysis
+1. SQL Querying
+2. Python
+3. Data Analysis
+4. Business Analysis
+5. Dashboards
+   
 - 🌱 I’m currently pursuing my masters in Data Analytics in San Jose State University 
 - 💞️ I get excited about opportunities where I'm able to work with highly creative people to develop innovative solutions in the data industry.
 - 📫 How to reach me:

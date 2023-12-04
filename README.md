@@ -10,7 +10,7 @@
 - 💞️ I get excited about opportunities where I'm able to work with highly creative people to develop innovative solutions in the data industry.
 - 📫 How to reach me:
 - LinkedIn : Aradhya Alva R
-- Email : @aradhyaalva881@gmail.com
+- Email : @aradhyaalva18@gmail.com
 - GitHub : AradhyaAlva
   
  

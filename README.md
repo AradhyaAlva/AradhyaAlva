@@ -2,8 +2,8 @@
 - Specialties include:
 1. SQL Querying
 2. Python
-3. Data Analysis
-4. Business Analysis
+3. Data Engineering
+4. ETL
 5. Dashboards
    
 - 🌱 I’m currently pursuing my masters in Data Analytics in San Jose State University 
